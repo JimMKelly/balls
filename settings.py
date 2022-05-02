@@ -1,0 +1,9 @@
+WIDTH, HEIGHT = 800,500
+RES = (WIDTH,HEIGHT)
+NUM_BALLS = 2
+GRAVITY = 0.5
+RED = (255,0,0)
+GREEN = (0,255,0)
+BLUE = (0,0,255)
+
+balls = []
